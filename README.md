@@ -1,1 +1,1 @@
-# python_courses !!!
+"This is repro for autotests"
