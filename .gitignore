@@ -1,5 +1,0 @@
-.pytest_cache
-allure-results
-.gitignore
-Dockerfile
-test.log
